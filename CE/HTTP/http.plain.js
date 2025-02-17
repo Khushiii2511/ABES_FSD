@@ -11,3 +11,4 @@ PORT=3001;
 server.listen(PORT,()=>{
     console.log(`Server is running on port ${PORT}`);
 })
+// if we remove PORT then it will run on random port whose range is 49000 to 65000
