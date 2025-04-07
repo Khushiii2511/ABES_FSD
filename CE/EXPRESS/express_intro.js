@@ -41,3 +41,4 @@ app.listen(port,()=>{
 });
 // GET(data fetch,in url(client to server)) POST(creation) PUT(replace) PATCH(specific change) DELETE 
 // STATUS CODES(IMP)
+// what is express- framework(structure of minimum coding) of node
